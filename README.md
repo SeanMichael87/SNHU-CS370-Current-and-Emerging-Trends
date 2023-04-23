@@ -2,10 +2,12 @@
 
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
+Throughout this term we worked through the complexities of AI. We learned the various algorithms and learning techniques applied to create these intelligent machines. Applying what we learned, we created a "pirate" agent for a treasure hunt game that would need to quickly discover the treasure before the human player. The bulk of the code was given to us for the assignemnt, so we were to develop the Q-Learning algorithm to help the agent process information on the game state and learn the best path to success. 
+
 Connect your learning from throughout this course to the larger field of computer science:
 
 What do computer scientists do and why does it matter?
-
 How do I approach a problem as a computer scientist?
-
 What are my ethical responsibilities to the end user and the organization?
+
+For me, a computer scientist is someone that tries to find ways to develop technologies to improve the lives of humans. AI is simply another tool that computer scientists hope will do just that. The work in this field is crucial because it enables the creation of intelligent systems that can perform complex tasks with accuracy and efficiency, such as self-driving cars, medical diagnosis systems, and natural language processing applications. When approaching a problem as a computer scientist, it's important to have a clear understanding of the problem domain, the available data and resources, and the goals of the project. This involves defining the problem, researching existing solutions, and exploring different algorithms and techniques that could be used to solve the problem. I use this to help me in any project I am doing to ensure that I am meeting project needs that would accomplish the specified goals. It is incredibly important that I limit any bias and approach my development ethically as I have responsibilities to both the end user and the organization. In development I would need to consider the potential impact of my work on society and ensure that my systems are designed and deployed in a way that is transparent, fair, and respectful of individual privacy and rights. In regards to AI development, this includes implementing appropriate data security measures, addressing biases and ethical concerns in AI algorithms, and ensuring that my systems are accessible and usable by all. Additionally, I would need to stay up-to-date with emerging ethical and legal guidelines (such as GDPR) related to AI development and use, and strive to integrate these principles into my work.
